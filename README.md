@@ -14,16 +14,6 @@ I'm a hands-on investor and former VP/CTO with a passion for building structured
 - Agentic workflows & reasoning over structured data  
 - Using AI to make complex systems legible and navigable  
 
-### 📈 Stats & Activity
-
-<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
-
-  <img src="https://github-readme-stats.vercel.app/api?username=ibercovich&show_icons=true&theme=gruvbox&card_width=400" height="200" />
-  
-  <img src="https://streak-stats.demolab.com?user=ibercovich&theme=gruvbox" height="200" />
-  
-</div>
-
 ### 🧬 Fun Fact
 
 I once dropped out of a Financial Math PhD after a professor insisted that “infinite probability” was just something I had to accept. That moment convinced me I was an engineer at heart, not a theorist.
