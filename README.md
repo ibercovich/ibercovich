@@ -16,5 +16,5 @@ I'm a hands-on investor and former VP/CTO with an interest in building structure
 
 ### 🧬 Fun Fact
 
-I once dropped out of a Financial Math PhD after a professor insisted that “infinite probability” was just something I had to accept. That moment convinced me I was an engineer/empiricist.
+I once dropped out of a Financial Math PhD after a professor insisted that “infinite probability” was just something I had to accept. That moment convinced me I was an engineer/empiricist at heart.
 
