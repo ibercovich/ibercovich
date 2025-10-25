@@ -1,6 +1,6 @@
 ### 👋 Hi, I'm Ivan
 
-I'm a hands-on investor and former VP/CTO with aan interest in building structured systems from messy, domain-specific data. I'm a founder and partner at [ScOp VC](https://www.scopvc.com), where I support founders in scaling teams and building vertical AI products.
+I'm a hands-on investor and former VP/CTO with an interest in building structured systems from messy, domain-specific data. I'm a founder and partner at [ScOp VC](https://www.scopvc.com), where I support founders in scaling teams and building vertical AI products.
 
 ### 🚀 What I’ve Done
 
